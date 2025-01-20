@@ -1,0 +1,13 @@
+{
+    "id":"fleetaccounting",
+    "name":"Fleet Accounting",
+    "author":"Albert Hiisky",
+    "version":"1.0.0",
+    "description":"Freely enable and disable what statistics of your fleet are shown in your fleet screen.",
+    "gameVersion":"0.97a-RC11",
+    "totalConversion":false,
+    "jars": [
+        "jars/FleetAccounting.jar"
+    ],
+    "modPlugin":"FleetAccounting.FleetAccountingPlugin"
+}

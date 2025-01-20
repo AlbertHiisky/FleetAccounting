@@ -1,0 +1,16 @@
+{
+	"id":"fleet_accounting_civilian",
+	"governingAptitude":"leadership",
+	"compressHullmods":false,
+	"permanent":true,
+	"scope":"FLEET",
+	"effectGroups":[
+		{
+			"requiredSkillLevel":1,
+			"effectBasedOnLevel":false,
+			"effects":[
+				{"type":"ALL_SHIPS_IN_FLEET", "script":"FleetAccounting.FleetAccountingSkillCivilian$Level1"},
+			]
+		},
+	],
+}

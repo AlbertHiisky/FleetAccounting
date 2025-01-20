@@ -1,0 +1,10 @@
+id,name,order,tier,reqPoints,reqPointsPerExtraSkill,description,author,combat officer,admiral,admin,tags,icon
+fleet_accounting_all,Fleet Accounting - All Ships,11000,0,,,,,,TRUE,,npc_only,graphics/icons/skills/fleetaccounting_bruh.png
+,,,,,,,,,,,,
+fleet_accounting_combat,Fleet Accounting - Combat Ships,11001,0,,,,,,TRUE,,npc_only,graphics/icons/skills/fleetaccounting_bruh.png
+fleet_accounting_civilian,Fleet Accounting - Civilian Ships,11002,0,,,,,,TRUE,,npc_only,graphics/icons/skills/fleetaccounting_bruh.png
+,,,,,,,,,,,,
+fleet_accounting_militarized,Fleet Accounting - Militarized Ships,11003,0,,,,,,TRUE,,npc_only,graphics/icons/skills/fleetaccounting_bruh.png
+fleet_accounting_phase,Fleet Accounting - Phase Ships,11004,0,,,,,,TRUE,,npc_only,graphics/icons/skills/fleetaccounting_bruh.png
+,,,,,,,,,,,,
+fleet_accounting_automated,Fleet Accounting - Automated Ships,11005,0,,,,,,TRUE,,npc_only,graphics/icons/skills/fleetaccounting_bruh.png
